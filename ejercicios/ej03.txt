@@ -1,0 +1,9 @@
+CP
+cp --copy-contents copia el contenido de un archivo dentro de otro archivo
+
+E RM
+rm -r borra toda la carpeta 
+
+MKDIR
+ mkdir -v, --verbose imprime un mensaje de cualquier directorio que nosotros le pongamos
+

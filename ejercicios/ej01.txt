@@ -1,0 +1,13 @@
+Comandos del cmd
+ls -m devuelve la lista de los archivos dentro de mi directorio pero diferenciando entre los distintos archivos
+ls -l me da la lista de los archivos dentro de mi directorio 
+ls -l -v me da la lista de los archivos dentro de mi directorio y tambien lo ordena
+
+ls e* autocompleta nuestros archivos y nos devuelve todos los archivos que empiecen con ese nombre
+ls e*.c devuelve el archivo que termine en .c
+ls e??.c los ?? representan cualquier caracter y devuelve cualquier archivo con ese formato
+ls ?ii?.c devulve cualquier archivo con cualquier caracter al principio con dos ii al medio y cualquier caracter al final
+ls *9.c devuelve cualquier archivo que termine en 9 y con el formato .c
+
+ls ai[1-5] devuelve una lista de archivo que tienen de ai y del 1 al 5
+ls [ac]ii1.c una lista de los archivos que terminen en ii1 con formato .c 

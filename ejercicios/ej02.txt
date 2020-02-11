@@ -1,0 +1,3 @@
+ls -d --directory devuelve todos los directorios y podemos encontrar los directorios sin saber que tenga adentro por esos ponerles nombres a decuados 
+ls --file-type devuelve los archivos con sus tipos de cada directorio
+ls --full-time devuelve cuando fue creado los archivos y los archivos
